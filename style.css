@@ -1,12 +1,26 @@
-body{
-    background-color:greenyellow;
-    margin:auto;
-    padding:auto;
-    background:scroll;
+body
+{
+    background-color:#adff2f;
+    margin:0;
+    padding:0;
+    position:scroll;
+    
     
 
 
 }
-p{
+p, h1{
+    
+    font-size:30px;
     color:blue;
+    text-align: center;
+}
+div{
+    background-color:aliceblue;
+    height:500px;
+
+    
+}
+.Footer{
+    text-align: justify;
 }
